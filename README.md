@@ -8,9 +8,7 @@ A Data Analysis project that explores customer purchasing behavior during the Di
 
 ![Diwali Sales Dashboard](dashboard.png)
 
-> Replace "C:\Users\syedi\Downloads\WhatsApp Image 2026-05-17 at 3.30.16 PM.jpeg" with your uploaded dashboard image name.
 
----
 
 ## 🚀 Project Overview
 
