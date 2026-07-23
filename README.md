@@ -8,7 +8,8 @@ A Data Analysis project that explores customer purchasing behavior during the Di
 
 ![Diwali Sales Dashboard](dashboard.png)
 
-> Replace `dashboard.png` with your uploaded dashboard image name.
+> Replace `<img width="1600" height="907" alt="WhatsApp Image 2026-05-17 at 3 30 16 PM" src="https://github.com/user-attachments/assets/2d753b4f-a6a4-4a26-b799-bfc7a7b9432d" />
+` with your uploaded dashboard image name.
 
 ---
 
